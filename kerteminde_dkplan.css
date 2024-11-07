@@ -1,0 +1,8 @@
+﻿#find-me-btn,
+#about-btn,
+#session,
+#mapcontrols-history-backward,
+#mapcontrols-history-forward
+{
+  display:none !important;
+}
